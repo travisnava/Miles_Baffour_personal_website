@@ -27,6 +27,7 @@
     font-weight: bold;
     text-align:left;
     color: blue;
+    margin-top: 50px;
 }
 
 
@@ -51,7 +52,7 @@
 }
 
 .portfolio {
-    margin-top: 100px;
+    margin-top: 75px;
     margin-left: 100px;
 }
 
@@ -66,7 +67,7 @@
 
 .about_me {
     display: flex;
-    margin-top: 200px;
+    margin-top: 100px;
     background-color: lightgrey;
 }
 
@@ -95,6 +96,7 @@
 }
 
 .project_card {
+    flex-wrap: wrap;
     margin-right: 40px;
 }
 
